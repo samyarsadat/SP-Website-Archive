@@ -1,3 +1,13 @@
+# Note:
+This is my old website project.\
+The repository was previously under the Samyar Projects organization, but I've decided to move it here before archiving it.\
+I don't currently have any plans for a new website, and this one hasn't seen active development in a while...
+
+----
+
+<br>
+<br>
+
 <h1 align="center">The Samyar Projects website</h1>
 <p align="center">
   	<a href="https://gigawhat.net/discord">Discord</a>
